@@ -15,6 +15,6 @@
    font-style: italic;
    
 }
-.subheading1{
-   
+.subheading1 ul{
+   display: flex;
 }
