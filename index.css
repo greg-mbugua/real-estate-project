@@ -11,10 +11,17 @@
    margin-right: 20px;
    
 }
-.list_items{
+.list_items h4{
    font-style: italic;
+   
    
 }
 .subheading1 ul{
    display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.subheading1 h4{
+   font-style: italic;
+
 }
