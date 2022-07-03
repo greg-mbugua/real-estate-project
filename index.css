@@ -25,3 +25,32 @@
    font-style: italic;
 
 }
+.subheading1 button{
+   display: inline-flex;
+   background-color: blue;
+   padding: 5px 5px 5px;
+   font-weight: bolder;
+   font-family: #ffffff;
+   position: relative;
+   justify-content: space-between;
+   font-size: 8pt;
+   font-family: tahoma;
+   margin-top: 70px;
+   margin-left: 100px;
+   position:absolute;
+   top:0;
+   right:0;
+}
+p{
+   font-family: 'Space Gresk', 'Oleo Script';
+   font-size: larger;
+   
+
+}
+.paragraph1 h4{
+   font-size: xx-large;
+   color: blue;
+}
+.image{
+   
+}
