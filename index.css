@@ -48,10 +48,10 @@ button{
 .flex_blue_content{
    font-family: impact, haettnschwiler,'Ariaal narrwo';
    display: inline-flex;
-   justify-content: blue;
+   justify-content: rgb(227, 9, 53);
    padding: 30px 150px 120px;
    color: #ffff;
-   background-color: blue;
+   background-color: rgb(225, 15, 46);
 }
 .paragraph1 .button26 button{
    height: 40px;
