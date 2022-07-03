@@ -11,8 +11,11 @@ This project is about a landing page of an estate, which is demostrated using hy
 This project is also found in other medias.
 
 ## TECHNOLOGIES USED
+
 HTML
+
 CSS
+
 GIT
 
 ## PROJECT LINK
