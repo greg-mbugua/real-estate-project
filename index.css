@@ -1,3 +1,26 @@
+nav{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   border-bottom: 1px solid  #FAFAFA;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   
+}
+nav ul li{
+   list-style: none;
+   display: inline;
+   padding: 10px;
+}
+nav button{
+   height: 40px;
+   background-color: #2549D3;
+   color: #ffffff;
+   border: none;
+   border-radius: 7px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
 .flex_blue_content{
    font-family: impact, haettnschwiler,'Ariaal narrwo';
    display: inline-flex;
@@ -52,6 +75,11 @@ p{
    font-size: xx-large;
    color: blue;
 }
+.image-hotelswimming{
+   margin-left: 700px;
+   margin-bottom: 0px;
+   margin-top: -100px;
 
+}
 
 
