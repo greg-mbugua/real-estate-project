@@ -48,9 +48,10 @@ p{
 
 }
 .paragraph1 h4{
+   display: flex;
    font-size: xx-large;
    color: blue;
 }
-.image{
-   
-}
+
+
+
