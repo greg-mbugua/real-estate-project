@@ -1,8 +1,20 @@
 .flex_blue_content{
-   font-family: impact, haettn schwiler,'Areal narrwo';
-   display: flex;
+   font-family: impact, haettnschwiler,'Ariaal narrwo';
+   display: inline-flex;
    justify-content: blue;
    padding: 30px 150px 120px;
    color: #ffff;
    background-color: blue;
+}
+.list-items{
+   padding-right: 10px;
+   margin-right: 20px;
+   
+}
+.list_items{
+   font-style: italic;
+   
+}
+.subheading1{
+   
 }
