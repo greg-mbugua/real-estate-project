@@ -1,3 +1,14 @@
+body{
+   margin-left: 100px;
+   margin-right: 100px;
+   font-family: Space Grotesk;
+   font-size: 18px;
+   background-color: #FAFAFA;
+}
+.paragraph1 h4{
+   font-size: 2.6em;
+   color: #2549D3;
+}
 nav{
    display: flex;
    justify-content: space-between;
@@ -12,7 +23,7 @@ nav ul li{
    display: inline;
    padding: 10px;
 }
-nav button{
+button{
    height: 40px;
    background-color: #2549D3;
    color: #ffffff;
@@ -20,6 +31,19 @@ nav button{
    border-radius: 7px;
    padding-left: 10px;
    padding-right: 10px;
+}
+.paragraph1{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+.paragraph1 .text{
+   width: 50%;
+}
+.paragraph1 .image-hotelswimming{
+   width: 50%;
+
 }
 .flex_blue_content{
    font-family: impact, haettnschwiler,'Ariaal narrwo';
@@ -29,7 +53,70 @@ nav button{
    color: #ffff;
    background-color: blue;
 }
-.list-items{
+.paragraph1 .button26 button{
+   height: 40px;
+   background-color: #2549D3;
+   color: #ffffff;
+   border: none;
+   border-radius: 7px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+#play_button{
+   color: #2549D3;
+   background-color: #ffffff;
+   border: none;
+   font-size: 35px;
+   padding: 0;
+}
+.paragraph1 .button26{
+   display: flex;
+   align-items: center;
+   column-gap: 20px;
+   width: 20%;
+}
+.text_card{
+   width: 90%;
+   margin: auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: #ffffff;
+   box-shadow: 6px 6px 10px rgba(19, 19, 19, 0.2);
+   padding: 40px; 
+   border-radius: 20px;
+   
+}
+.text_card .heading{
+   color: #2549D3;
+   margin-bottom: 10px;
+}
+.products .header{
+   text-align: center;
+}
+.products h3{
+   color: #2549D3;
+}
+.flex_cards{
+   display: flex;
+   justify-content: space-between;
+}
+.flex_cards .card{
+   width: 30%;
+   background-color: #ffffff;
+   text-align: center;
+}
+.paragraph1 h3{
+   font-size: 2.6em;
+   color: #2549D3;
+}
+.header_2{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+/* .list-items{
    padding-right: 10px;
    margin-right: 20px;
    
@@ -80,6 +167,6 @@ p{
    margin-bottom: 0px;
    margin-top: -100px;
 
-}
+} */
 
 
