@@ -19,7 +19,7 @@ CSS
 GIT
 
 ## PROJECT LINK
-
+This link will take you to my project [gh-pages](https://greg-mbugua.github.io/real-estate-project/)
 
 
 ## CONTACT INFORMATION
