@@ -35,7 +35,7 @@ button{
 .paragraph1{
    display: flex;
    justify-content: space-between;
-   margin-top: 50px;
+   margin-top: 40px;
    margin-bottom: 50px;
 }
 .paragraph1 .text{
@@ -116,6 +116,31 @@ button{
    margin-top: 50px;
    margin-bottom: 50px;
 }
+.paragraph2{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 40px;
+   margin-bottom: 50px;
+}
+.paragraph2 h3{
+   font-size: 2.6em;
+   color: #2549D3;
+   margin-top: 50px;
+   margin-left: 0px;
+  
+}
+.paragraph2 .image-hotelswimming{
+   width: 50%;
+
+}
+.paragraph2 p{
+   width: 50%;
+   margin-left: 10px;
+   align-content: center;
+   
+}
+
+
 /* .list-items{
    padding-right: 10px;
    margin-right: 20px;
