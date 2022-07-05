@@ -19,7 +19,13 @@ CSS
 GIT
 
 ## PROJECT LINK
+<<<<<<< HEAD
 This link will take you to my project [gh-pages](https://greg-mbugua.github.io/real-estate-project/)
+=======
+
+This is where you get the link of my angular app using this url https://greg-mbugua.github.io/real-estate-project/
+
+>>>>>>> gh-pages
 
 
 ## CONTACT INFORMATION
