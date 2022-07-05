@@ -139,6 +139,12 @@ button{
    align-content: center;
    
 }
+.paragraph2 ul{
+   justify-content: space-between;
+   margin-left: 40px;
+   font-size: large;
+   display: flex;
+}
 
 
 /* .list-items{
@@ -194,4 +200,11 @@ p{
 
 } */
 
-
+/* Choose us Section style */
+.prime-conta{
+   display: flex;
+   justify-content: space-betweengit;
+}
+.first-elements{
+   display: flex;
+}
