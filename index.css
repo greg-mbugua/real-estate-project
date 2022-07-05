@@ -116,7 +116,7 @@ button{
    margin-top: 50px;
    margin-bottom: 50px;
 }
-<<<<<.paragraph2{
+.paragraph2{
    display: flex;
    justify-content: space-between;
    margin-top: 40px;
@@ -209,9 +209,8 @@ p{
 /* Choose us Section style */
 .prime-conta{
    display: flex;
-   justify-content: space-betweengit;
+   justify-content: space-between;
 }
 .first-elements{
    display: flex;
 }
-gh-pages
