@@ -116,8 +116,7 @@ button{
    margin-top: 50px;
    margin-bottom: 50px;
 }
-<<<<<<< HEAD
-.paragraph2{
+<<<<<.paragraph2{
    display: flex;
    justify-content: space-between;
    margin-top: 40px;
@@ -144,6 +143,12 @@ button{
    justify-content: space-between;
    margin-left: 40px;
    font-size: large;
+   display: flex;
+}
+.options-{
+   display: flex;
+}
+.text_2 h3{
    display: flex;
 }
 
@@ -209,5 +214,4 @@ p{
 .first-elements{
    display: flex;
 }
-=======
->>>>>>> gh-pages
+gh-pages
